@@ -1,6 +1,6 @@
 # RegressionPkg
 
-This is a sample R package implementing a set of fundamental modeling and matrix decomposition functions by hand.
+This is an R package implementing a set of fundamental modeling and matrix decomposition functions by hand.
 
 ### Included are:  
 
